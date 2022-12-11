@@ -25,3 +25,4 @@
 | POWER Chip SDA |     21     |     21     |
 | POWER Chip SCL |     22     |     22     |
 |      LED       |     ❌      |     13     |
+ 
